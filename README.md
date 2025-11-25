@@ -1,5 +1,5 @@
 # <img src="https://github.com/linera-io/linera-protocol/assets/1105398/fe08c941-93af-4114-bb83-bcc0eaec95f9" width="250" height="85" />
-
+This is an update for testing commit on GitHub Web.
 [![License](https://img.shields.io/github/license/linera-io/linera-protocol)](LICENSE)
 [![Build Status for Docker](https://github.com/linera-io/linera-protocol/actions/workflows/docker-compose.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/docker-compose.yml)
 [![Build Status for Rust](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml/badge.svg)](https://github.com/linera-io/linera-protocol/actions/workflows/rust.yml)
@@ -147,7 +147,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 5. Open a Pull Request
 
 For detailed guidelines, see our [contribution guide](./CONTRIBUTING.md).
-This is an update for testing commit on GitHub Web.
+
 docs: update README with test message
 Added a test line to verify GitHub Web commit workflow.
 
