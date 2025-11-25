@@ -151,3 +151,5 @@ For detailed guidelines, see our [contribution guide](./CONTRIBUTING.md).
 docs: update README with test message
 Added a test line to verify GitHub Web commit workflow.
 
+docs: improve README introduction
+
